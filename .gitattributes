@@ -1,0 +1,9 @@
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang-18 filter=lfs diff=lfs merge=lfs -text
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/lld filter=lfs diff=lfs merge=lfs -text
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang-scan-deps filter=lfs diff=lfs merge=lfs -text
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang-check filter=lfs diff=lfs merge=lfs -text
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/musl/lib/libclang.so filter=lfs diff=lfs merge=lfs -text
+ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/lib/liblldb.so filter=lfs diff=lfs merge=lfs -text
+.git/objects/ae/ba8a9b61d43a6c28ac157abeb4ea187cf8c6d9 filter=lfs diff=lfs merge=lfs -text
+.git/objects/32/d11dc12f8e50ee4800643eaf34ea639e921268 filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-baf8723226752c2b996d59eea5138ac54ed6acea.pack filter=lfs diff=lfs merge=lfs -text
